@@ -1,0 +1,15 @@
+{
+  "name": "node-module-compile-transform",
+  "version": "1.0.0",
+  "description": "Transform compile input text of regex-matched node modules",
+  "main": "index.js",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^10.3.2"
+  }
+}
