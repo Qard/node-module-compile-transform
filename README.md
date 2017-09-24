@@ -1,5 +1,7 @@
 # node-module-compile-transform
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/node-module-compile-transform.svg)](https://greenkeeper.io/)
+
 With `node-module-compile-transform`, text transform functions can be applied
 to any loaded module with a filename matching a given regular expression.
 
